@@ -62,8 +62,8 @@ Expert in Elementor, React, and responsive design
 
 ### 📊 GitHub Stats:
 
-![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devarif420&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devarif420&layout=compact&theme=radical)
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devarif23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devarif23&layout=compact&theme=radical)
 
 ---
 
