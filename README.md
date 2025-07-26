@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-cover-image-url.com/banner.png" alt="cover" width="100%" />
+</p>
+
 <h1 align="center">👋 Hello, I'm Arif Jahan</h1>
 <h3 align="center">Professional WordPress & Frontend Developer | Elementor Expert | React Specialist</h3>
 
@@ -15,17 +19,18 @@
 ## 🚀 About Me
 
 I'm a passionate developer specializing in:
-- **WordPress Development** (Custom Themes, Elementor, WooCommerce)
-- **Frontend Technologies** (React, JavaScript, TailwindCSS)
-- **Full Website Solutions** from design to deployment
 
-I transform ideas into high-performance websites with stunning designs and perfect functionality.
+- 🔧 **WordPress Development** — Custom Themes, Elementor, WooCommerce
+- ⚛️ **Frontend Technologies** — React, JavaScript, TailwindCSS
+- 🌐 **Full Website Solutions** — From design to deployment
+
+> I transform ideas into high-performance websites with stunning designs and perfect functionality.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend Development
+### 🖥️ Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,12 +38,12 @@ I transform ideas into high-performance websites with stunning designs and perfe
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### WordPress & CMS
+### 🗂️ WordPress & CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
-### Other Skills
+### ⚙️ Other Tools & Skills
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -47,27 +52,29 @@ I transform ideas into high-performance websites with stunning designs and perfe
 
 ## 🌟 Featured Projects
 
-### WordPress Projects
-1. **[E-Commerce Website](https://github.com/devarif23/ecommerce-site)** - Full WooCommerce solution with custom theme
-   - Elementor Pro customization
-   - Payment gateway integration
-   - Performance optimization
+### 🔧 WordPress Projects
 
-2. **[Business Portfolio Theme](https://github.com/devarif23/portfolio-theme)** - Custom WordPress theme
-   - Responsive design
-   - Custom post types
-   - SEO optimized
+1. 🎯 [**E-Commerce Website**](https://github.com/devarif23/ecommerce-site)  
+   - WooCommerce integration  
+   - Elementor Pro customization  
+   - Speed optimization & responsive UI  
 
-### React Projects
-3. **[Task Management App](https://github.com/devarif23/task-manager)** - React + Firebase
-   - Real-time updates
-   - User authentication
-   - Drag & drop interface
+2. 🧰 [**Business Portfolio Theme**](https://github.com/devarif23/portfolio-theme)  
+   - Custom post types  
+   - Fully responsive  
+   - SEO-optimized WordPress theme  
 
-4. **[Weather Dashboard](https://github.com/devarif23/weather-app)** - React + API integration
-   - Location-based weather
-   - 5-day forecast
-   - Responsive design
+### ⚛️ React Projects
+
+3. ✅ [**Task Management App**](https://github.com/devarif23/task-manager)  
+   - Built with React & Firebase  
+   - Real-time CRUD  
+   - Drag-and-drop feature  
+
+4. 🌦️ [**Weather Dashboard**](https://github.com/devarif23/weather-app)  
+   - API-based weather forecast  
+   - Location support  
+   - Clean, mobile-friendly UI  
 
 ---
 
@@ -106,4 +113,4 @@ I transform ideas into high-performance websites with stunning designs and perfe
 
 ---
 
-> "I don't just build websites, I build experiences that users love and businesses benefit from."
+> 🎯 *"I don't just build websites, I build experiences that users love and businesses benefit from."*
