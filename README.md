@@ -2,13 +2,14 @@
 <h3 align="center">Professional WordPress & Frontend Developer | Elementor Expert | React Specialist</h3>
 
 <p align="center">
-Building high-performance WordPress sites & modern web apps<br/>
-Expert in Elementor, React, and responsive design
+  Building high-performance WordPress sites & modern web apps<br/>
+  Expert in Elementor, React, and responsive design
 </p>
 
 ---
 
-### 🚀 What I'm Currently Doing:
+### 🚀 What I'm Currently Doing
+
 - 🔭 Working on **React Projects & Custom WordPress Themes**
 - 🌱 Learning **Advanced WordPress Development**
 - 💬 Ask me about: **Frontend Development | WordPress | Elementor**
@@ -16,9 +17,9 @@ Expert in Elementor, React, and responsive design
 
 ---
 
-### 💻 Technologies I Use:
+### 💻 Technologies I Use
 
-#### 🎨 Frontend:
+#### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,53 +27,51 @@ Expert in Elementor, React, and responsive design
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-#### 🖥️ WordPress & CMS:
+#### 🖥️ WordPress & CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
-#### 🔧 Programming Languages:
+#### 🔧 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-#### 🔧 Other Skills:
+#### 🧰 Other Skills
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 🏆 My Development Services:
+### 🏆 My Development Services
 
-#### Frontend Development
-- Responsive Web Design
-- React Application
-- Performance Optimization
-- Cross-browser Compatibility
+#### 🌐 Frontend Development
+- Responsive Web Design  
+- React Application  
+- Performance Optimization  
+- Cross-browser Compatibility  
 
-#### WordPress Development
-- Custom WordPress Themes
-- Elementor Website Building
-- WooCommerce Solutions
-- WordPress Optimization
-- Maintenance & Security
+#### 🛠 WordPress Development
+- Custom WordPress Themes  
+- Elementor Website Building  
+- WooCommerce Solutions  
+- WordPress Optimization  
+- Maintenance & Security  
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarif23&layout=compact&theme=radical" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarif23&layout=compact&theme=radical" width="33%" />
   <img src="https://github-readme-stats.vercel.app/api?username=devarif23&show_icons=true&theme=radical" width="33%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devarif23&theme=radical&hide_border=true" width="33%" />
 </p>
 
-
-
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arifjahan01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arifjahan864/)
@@ -84,4 +83,5 @@ Expert in Elementor, React, and responsive design
 
 ---
 
-> ❤️ I transform ideas into powerful WordPress websites with stunning designs, blazing speed, and perfect functionality. Let's build something amazing together!
+> ❤️ I transform ideas into powerful WordPress websites with stunning designs, blazing speed, and perfect functionality.  
+> Let’s build something amazing together!
